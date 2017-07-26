@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Photography &#8211; NOUS film</title>
+	<atom:link href="/category/work/photography/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>若思影像工作室</description>
+	<lastBuildDate>Sat, 22 Jul 2017 06:31:01 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+
+<image>
+	<url>https://i1.wp.com/nous.im/wp-content/uploads/2015/10/cropped-nous_app.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Photography &#8211; NOUS film</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">133007929</site>	<item>
+		<title>XSTH ╳ Treether</title>
+		<link>/2016/10/19/treether/</link>
+		<pubDate>Wed, 19 Oct 2016 15:21:32 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[2016]]></category>
+		<category><![CDATA[parsec]]></category>
+		<category><![CDATA[treether]]></category>
+		<category><![CDATA[wallet]]></category>
+
+		<guid isPermaLink="false">http://nous.twbbs.org/?p=319</guid>
+		<description><![CDATA[在森林深處，女泰山正準備新樹革的時裝秀。 然而和大多數人一樣，身邊總會有個搞砸的朋友，還會忘記帶錢。 但知道你 [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">319</post-id>	</item>
+		<item>
+		<title>XSTH ╳ 壞女孩的甜蜜時間</title>
+		<link>/2016/10/19/xsth-badgirl/</link>
+		<pubDate>Wed, 19 Oct 2016 11:47:07 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[2016]]></category>
+		<category><![CDATA[animal savior]]></category>
+		<category><![CDATA[sex toy]]></category>
+
+		<guid isPermaLink="false">http://nous.twbbs.org/?p=294</guid>
+		<description><![CDATA[女孩有很多種，也有很多面。 我們常被告訴「別只看外表」， 大部份情況都不太合用，但或許這次是對的。 http: [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">294</post-id>	</item>
+		<item>
+		<title>H.U.N.G.R.Y. @ The River</title>
+		<link>/2016/06/24/h-u-n-g-r-y-the-river/</link>
+		<pubDate>Fri, 24 Jun 2016 09:34:03 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Commercial]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[2016]]></category>
+		<category><![CDATA[food party]]></category>
+		<category><![CDATA[hungry]]></category>
+		<category><![CDATA[joel]]></category>
+
+		<guid isPermaLink="false">http://nous.twbbs.org/?p=178</guid>
+		<description><![CDATA[一場絕無僅有的瘋狂創意發想，首次同時融合視覺，聽覺，嗅覺，味覺與觸覺，五感於一身的主題派對。 製作｜NOUS  [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">178</post-id>	</item>
+		<item>
+		<title>Joel ╳ 老土味計劃概念展 Grandma project</title>
+		<link>/2016/06/23/grandma/</link>
+		<pubDate>Thu, 23 Jun 2016 08:39:09 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[2016]]></category>
+		<category><![CDATA[food project]]></category>
+		<category><![CDATA[joel]]></category>
+
+		<guid isPermaLink="false">http://nous.twbbs.org/?p=125</guid>
+		<description><![CDATA[「老土味計劃：概念展 by 喬艾爾（Joël Chen）」以快閃展覽的活動形式作為計劃第一階段的發表，運用 U [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">125</post-id>	</item>
+	</channel>
+</rss>

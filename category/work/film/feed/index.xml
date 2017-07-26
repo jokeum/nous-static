@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Film &#8211; NOUS film</title>
+	<atom:link href="/category/work/film/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>若思影像工作室</description>
+	<lastBuildDate>Sat, 22 Jul 2017 06:31:01 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+
+<image>
+	<url>https://i1.wp.com/nous.im/wp-content/uploads/2015/10/cropped-nous_app.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Film &#8211; NOUS film</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">133007929</site>	<item>
+		<title>米粉製作大揭密</title>
+		<link>/2016/01/12/mifen-makeof/</link>
+		<pubDate>Mon, 11 Jan 2016 18:08:29 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Film]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[2015]]></category>
+		<category><![CDATA[documentary]]></category>
+		<category><![CDATA[hsinchu]]></category>
+		<category><![CDATA[rice noodle]]></category>
+
+		<guid isPermaLink="false">http://nous.twbbs.org/?p=107</guid>
+		<description><![CDATA[2015 新竹米粉節紀錄片 製片｜林莫凡 導演｜Canary Wu 攝影｜簡就可｜陳奕宏 攝影助理｜莊賢耀 後 [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">107</post-id>	</item>
+		<item>
+		<title>米粉心情知多少</title>
+		<link>/2016/01/07/mifen-knowhow/</link>
+		<pubDate>Wed, 06 Jan 2016 16:26:37 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Film]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[2015]]></category>
+		<category><![CDATA[documentary]]></category>
+		<category><![CDATA[hsinchu]]></category>
+		<category><![CDATA[rice noodle]]></category>
+
+		<guid isPermaLink="false">http://nous.twbbs.org/?p=102</guid>
+		<description><![CDATA[2015 新竹米粉節紀錄片 製片｜林莫凡 導演｜Canary Wu 攝影｜簡就可｜陳奕宏 攝影助理｜莊賢耀 後 [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">102</post-id>	</item>
+		<item>
+		<title>路上 Living/Running</title>
+		<link>/2015/10/09/living-running/</link>
+		<pubDate>Fri, 09 Oct 2015 08:18:52 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Film]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[2015]]></category>
+		<category><![CDATA[lexus]]></category>
+
+		<guid isPermaLink="false">http://stranger.twbbs.org/wp/?p=50</guid>
+		<description><![CDATA[2015 Lexus新銳影展 當一個人向目標前行的時候究竟會遇到什麼困難？是眾家長輩苦口婆心的滔滔教誨，是沿途 [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">50</post-id>	</item>
+		<item>
+		<title>圖書館獵人</title>
+		<link>/2015/10/09/book-hunter/</link>
+		<pubDate>Fri, 09 Oct 2015 08:03:26 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Film]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[2014]]></category>
+		<category><![CDATA[library]]></category>
+		<category><![CDATA[nthu]]></category>
+
+		<guid isPermaLink="false">http://stranger.twbbs.org/wp/?p=43</guid>
+		<description><![CDATA[清華大學圖書館微電影｜圖書館獵人 導演｜姜愷傑 編劇｜Dennis 副導｜林莫凡 製片｜Dennis 服化｜林 [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">43</post-id>	</item>
+		<item>
+		<title>選課須知</title>
+		<link>/2015/10/09/course-select/</link>
+		<pubDate>Fri, 09 Oct 2015 07:51:27 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Film]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[2014]]></category>
+		<category><![CDATA[nthu]]></category>
+
+		<guid isPermaLink="false">http://stranger.twbbs.org/wp/?p=37</guid>
+		<description><![CDATA[清華大學新生須知講座｜選課篇 導演｜簡就可 場記｜姜愷傑 製片｜林莫凡 攝影｜劉曦諾 攝影助理｜李翌曈 收音｜ [&#8230;]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">37</post-id>	</item>
+	</channel>
+</rss>
