@@ -5,29 +5,31 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
 
 <channel>
 	<title>parsec &#8211; NOUS film</title>
 	<atom:link href="/tag/parsec/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Sat, 22 Jul 2017 06:31:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8</generator>
+	<generator>https://wordpress.org/?v=5.0</generator>
 
 <image>
-	<url>https://i1.wp.com/nous.im/wp-content/uploads/2015/10/cropped-nous_app.png?fit=32%2C32&#038;ssl=1</url>
+	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
 	<title>parsec &#8211; NOUS film</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">133007929</site>	<item>
+	<item>
 		<title>XSTH ╳ Treether</title>
-		<link>/2016/10/19/treether/</link>
+		<link>/treether/</link>
 		<pubDate>Wed, 19 Oct 2016 15:21:32 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Photography]]></category>
@@ -39,6 +41,6 @@
 
 		<guid isPermaLink="false">http://nous.twbbs.org/?p=319</guid>
 		<description><![CDATA[在森林深處，女泰山正準備新樹革的時裝秀。 然而和大多數人一樣，身邊總會有個搞砸的朋友，還會忘記帶錢。 但知道你 [&#8230;]]]></description>
-	<post-id xmlns="com-wordpress:feed-additions:1">319</post-id>	</item>
+		</item>
 	</channel>
 </rss>

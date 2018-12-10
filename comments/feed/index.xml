@@ -4,15 +4,17 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
 	>
 <channel>
 	<title>「NOUS film」的迴響</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 24 Jul 2017 18:32:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Dec 2018 20:47:03 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8</generator>
+	<generator>https://wordpress.org/?v=5.0</generator>
 </channel>
 </rss>

@@ -5,29 +5,31 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
 
 <channel>
 	<title>news &#8211; NOUS film</title>
 	<atom:link href="/tag/news/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Sat, 22 Jul 2017 06:31:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8</generator>
+	<generator>https://wordpress.org/?v=5.0</generator>
 
 <image>
-	<url>https://i1.wp.com/nous.im/wp-content/uploads/2015/10/cropped-nous_app.png?fit=32%2C32&#038;ssl=1</url>
+	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
 	<title>news &#8211; NOUS film</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">133007929</site>	<item>
+	<item>
 		<title>上報 ╳ 小心上報</title>
-		<link>/2016/08/04/upmedia-2/</link>
+		<link>/upmedia-2/</link>
 		<pubDate>Thu, 04 Aug 2016 04:00:56 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Commercial]]></category>
@@ -39,10 +41,10 @@
 
 		<guid isPermaLink="false">http://nous.twbbs.org/?p=218</guid>
 		<description><![CDATA[製作｜NOUS film 演出｜葉育德 導演｜簡就可 攝影｜陳奕宏 攝影助理｜黃文威 燈光｜林劉禎｜邱信智 製 [&#8230;]]]></description>
-	<post-id xmlns="com-wordpress:feed-additions:1">218</post-id>	</item>
+		</item>
 		<item>
 		<title>上報 ╳ 看見事實．上報真相</title>
-		<link>/2016/08/03/upmedia-1/</link>
+		<link>/upmedia-1/</link>
 		<pubDate>Wed, 03 Aug 2016 09:22:14 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Commercial]]></category>
@@ -54,6 +56,6 @@
 
 		<guid isPermaLink="false">http://nous.twbbs.org/?p=214</guid>
 		<description><![CDATA[內部腦力激盪想創意，反覆跟客戶提案，在緊迫的時間內製作出這支影片。標籤上的異語多是眾人平時關心(或不關心)的議 [&#8230;]]]></description>
-	<post-id xmlns="com-wordpress:feed-additions:1">214</post-id>	</item>
+		</item>
 	</channel>
 </rss>

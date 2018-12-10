@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Member &#8211; NOUS film</title>
+	<atom:link href="//nous.im/category/member/feed/" rel="self" type="application/rss+xml" />
+	<link>//nous.im/</link>
+	<description>若思影像工作室</description>
+	<lastBuildDate>Mon, 10 Dec 2018 18:39:10 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0</generator>
+
+<image>
+	<url>//nous.im/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
+	<title>Member &#8211; NOUS film</title>
+	<link>//nous.im/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ShopBack 曉寶返現〈網購篇〉</title>
+		<link>//nous.im/shopback-%e6%9b%89%e5%af%b6%e8%bf%94%e7%8f%be%e3%80%88%e7%b6%b2%e8%b3%bc%e7%af%87%e3%80%89/</link>
+		<pubDate>Mon, 10 Dec 2018 16:09:52 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Commercial]]></category>
+		<category><![CDATA[Member]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[1111]]></category>
+		<category><![CDATA[commercial]]></category>
+		<category><![CDATA[shopback]]></category>
+
+		<guid isPermaLink="false">https://nous.im/nous/?p=519</guid>
+		<description><![CDATA[「媽媽居然叫我多買一點？！」 沒看過買網購還能賺現金的？&#160;現在讓你看看 ShopBack 曉寶返現  [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>夜歸女子暗巷險遇劫，智嚇犯人，救命恩人曝光！Only ” smart street light “ can save you!</title>
+		<link>//nous.im/smart-street-light/</link>
+		<pubDate>Wed, 18 Oct 2017 04:43:56 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Commercial]]></category>
+		<category><![CDATA[Member]]></category>
+		<category><![CDATA[Work]]></category>
+
+		<guid isPermaLink="false">http://nous.im/nous/?p=461</guid>
+		<description><![CDATA[製作｜NOUS Film Studio 導演｜簡就可 創意概念｜Kir｜Jesse｜莫凡 「危險發生需要多少時 [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>

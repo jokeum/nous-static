@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>帥哥警探 &#8211; NOUS film</title>
+	<atom:link href="/tag/%E5%B8%A5%E5%93%A5%E8%AD%A6%E6%8E%A2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>若思影像工作室</description>
+	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
+	<title>帥哥警探 &#8211; NOUS film</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>兩廳院事件簿《烈火中的帥哥警探》</title>
+		<link>/detective-h-on-fire/</link>
+		<pubDate>Mon, 10 Dec 2018 20:23:42 +0000</pubDate>
+		<dc:creator><![CDATA[jokeum]]></dc:creator>
+				<category><![CDATA[Commercial]]></category>
+		<category><![CDATA[Work]]></category>
+		<category><![CDATA[兩廳院]]></category>
+		<category><![CDATA[密室脫逃]]></category>
+		<category><![CDATA[帥哥警探]]></category>
+		<category><![CDATA[手遊]]></category>
+		<category><![CDATA[跨媒體]]></category>
+
+		<guid isPermaLink="false">/?p=540</guid>
+		<description><![CDATA[「別人無法解決的事，就交給帥哥警探！」 一齣結合線上＋線下＋實境互動的混種舞台劇，你從來沒玩過的「劇院式跨媒體 [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
