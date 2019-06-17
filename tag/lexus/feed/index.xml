@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/tag/lexus/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Feb 2017 13:40:38 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>路上 Living/Running</title>
 		<link>/living-running/</link>
-		<pubDate>Fri, 09 Oct 2015 08:18:52 +0000</pubDate>
+				<pubDate>Fri, 09 Oct 2015 08:18:52 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Film]]></category>
 		<category><![CDATA[Work]]></category>
@@ -38,7 +40,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[lexus]]></category>
 
 		<guid isPermaLink="false">http://stranger.twbbs.org/wp/?p=50</guid>
-		<description><![CDATA[2015 Lexus新銳影展 當一個人向目標前行的時候究竟會遇到什麼困難？是眾家長輩苦口婆心的滔滔教誨，是沿途 [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[2015 Lexus新銳影展 當一個人向目標前行的時候究竟會遇到什麼困難？是眾家長輩苦口婆心的滔滔教誨，是沿途 [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

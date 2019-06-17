@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/tag/%E4%B9%9D%E5%A4%A9/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Dec 2018 20:34:37 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>風中浮沈的花蕊</title>
 		<link>/flower-blowing-in-the-wind/</link>
-		<pubDate>Mon, 10 Dec 2018 20:30:55 +0000</pubDate>
+				<pubDate>Mon, 10 Dec 2018 20:30:55 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Commercial]]></category>
 		<category><![CDATA[Work]]></category>
@@ -41,7 +43,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[音樂劇]]></category>
 
 		<guid isPermaLink="false">/?p=545</guid>
-		<description><![CDATA[夢想越大，離家越遠 我們窮極一生追尋的是什麼？ 一個苦苦尋子的母親 一個盼望出頭的長子 一個懷疑自我的次子 在 [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[夢想越大，離家越遠 我們窮極一生追尋的是什麼？ 一個苦苦尋子的母親 一個盼望出頭的長子 一個懷疑自我的次子 在 [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

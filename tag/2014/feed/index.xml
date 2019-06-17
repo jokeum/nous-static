@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/tag/2014/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Feb 2017 13:40:56 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>GLITTER</title>
 		<link>/glitter/</link>
-		<pubDate>Fri, 09 Oct 2015 08:06:11 +0000</pubDate>
+				<pubDate>Fri, 09 Oct 2015 08:06:11 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Commercial]]></category>
 		<category><![CDATA[Work]]></category>
@@ -39,12 +41,12 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[prom]]></category>
 
 		<guid isPermaLink="false">http://stranger.twbbs.org/wp/?p=45</guid>
-		<description><![CDATA[2014 台政聯合耶誕派對PV｜GLITTER 導演｜簡就可 製片｜姜愷傑 製片助理｜Chris Lin 總務 [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[2014 台政聯合耶誕派對PV｜GLITTER 導演｜簡就可 製片｜姜愷傑 製片助理｜Chris Lin 總務 [&#8230;]]]></description>
+									</item>
 		<item>
 		<title>圖書館獵人</title>
 		<link>/book-hunter/</link>
-		<pubDate>Fri, 09 Oct 2015 08:03:26 +0000</pubDate>
+				<pubDate>Fri, 09 Oct 2015 08:03:26 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Film]]></category>
 		<category><![CDATA[Work]]></category>
@@ -53,12 +55,12 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[nthu]]></category>
 
 		<guid isPermaLink="false">http://stranger.twbbs.org/wp/?p=43</guid>
-		<description><![CDATA[清華大學圖書館微電影｜圖書館獵人 導演｜姜愷傑 編劇｜Dennis 副導｜林莫凡 製片｜Dennis 服化｜林 [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[清華大學圖書館微電影｜圖書館獵人 導演｜姜愷傑 編劇｜Dennis 副導｜林莫凡 製片｜Dennis 服化｜林 [&#8230;]]]></description>
+									</item>
 		<item>
 		<title>選課須知</title>
 		<link>/course-select/</link>
-		<pubDate>Fri, 09 Oct 2015 07:51:27 +0000</pubDate>
+				<pubDate>Fri, 09 Oct 2015 07:51:27 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Film]]></category>
 		<category><![CDATA[Work]]></category>
@@ -66,12 +68,12 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[nthu]]></category>
 
 		<guid isPermaLink="false">http://stranger.twbbs.org/wp/?p=37</guid>
-		<description><![CDATA[清華大學新生須知講座｜選課篇 導演｜簡就可 場記｜姜愷傑 製片｜林莫凡 攝影｜劉曦諾 攝影助理｜李翌曈 收音｜ [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[清華大學新生須知講座｜選課篇 導演｜簡就可 場記｜姜愷傑 製片｜林莫凡 攝影｜劉曦諾 攝影助理｜李翌曈 收音｜ [&#8230;]]]></description>
+									</item>
 		<item>
 		<title>南瓜妮歌迷俱樂部 &#8211; 微光</title>
 		<link>/dim-light/</link>
-		<pubDate>Thu, 18 Jun 2015 06:48:59 +0000</pubDate>
+				<pubDate>Thu, 18 Jun 2015 06:48:59 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[MV]]></category>
 		<category><![CDATA[Work]]></category>
@@ -79,7 +81,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[streetvoice]]></category>
 
 		<guid isPermaLink="false">http://stranger.twbbs.org/wp/?p=8</guid>
-		<description><![CDATA[StreetVoice 大團精選III 音樂小電影募集 導演｜Dennis Ng 副導｜李子珩 攝影｜簡就可  [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[StreetVoice 大團精選III 音樂小電影募集 導演｜Dennis Ng 副導｜李子珩 攝影｜簡就可  [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/tag/food-project/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 May 2017 07:20:29 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>Joel ╳ 老土味計劃概念展 Grandma project</title>
 		<link>/grandma/</link>
-		<pubDate>Thu, 23 Jun 2016 08:39:09 +0000</pubDate>
+				<pubDate>Thu, 23 Jun 2016 08:39:09 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Photography]]></category>
 		<category><![CDATA[Work]]></category>
@@ -39,7 +41,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[joel]]></category>
 
 		<guid isPermaLink="false">http://nous.twbbs.org/?p=125</guid>
-		<description><![CDATA[「老土味計劃：概念展 by 喬艾爾（Joël Chen）」以快閃展覽的活動形式作為計劃第一階段的發表，運用 U [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[「老土味計劃：概念展 by 喬艾爾（Joël Chen）」以快閃展覽的活動形式作為計劃第一階段的發表，運用 U [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

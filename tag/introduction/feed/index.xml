@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/tag/introduction/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Feb 2017 13:40:15 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>華儀電子 ╳ Playground for Top Talents</title>
 		<link>/playground-for-top-talents/</link>
-		<pubDate>Fri, 13 Nov 2015 08:24:19 +0000</pubDate>
+				<pubDate>Fri, 13 Nov 2015 08:24:19 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Commercial]]></category>
 		<category><![CDATA[Work]]></category>
@@ -39,7 +41,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[technology]]></category>
 
 		<guid isPermaLink="false">http://nous.twbbs.org/?p=77</guid>
-		<description><![CDATA[2015 華儀電子徵才形象宣傳片 製作｜NOUS film studio（fmr. 陌生人工作室） 導演｜簡就 [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[2015 華儀電子徵才形象宣傳片 製作｜NOUS film studio（fmr. 陌生人工作室） 導演｜簡就 [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

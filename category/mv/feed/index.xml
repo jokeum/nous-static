@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/category/mv/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Feb 2017 13:40:56 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>南瓜妮歌迷俱樂部 &#8211; 微光</title>
 		<link>/dim-light/</link>
-		<pubDate>Thu, 18 Jun 2015 06:48:59 +0000</pubDate>
+				<pubDate>Thu, 18 Jun 2015 06:48:59 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[MV]]></category>
 		<category><![CDATA[Work]]></category>
@@ -38,7 +40,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[streetvoice]]></category>
 
 		<guid isPermaLink="false">http://stranger.twbbs.org/wp/?p=8</guid>
-		<description><![CDATA[StreetVoice 大團精選III 音樂小電影募集 導演｜Dennis Ng 副導｜李子珩 攝影｜簡就可  [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[StreetVoice 大團精選III 音樂小電影募集 導演｜Dennis Ng 副導｜李子珩 攝影｜簡就可  [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

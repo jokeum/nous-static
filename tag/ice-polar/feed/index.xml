@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/tag/ice-polar/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Oct 2017 14:17:26 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>極地冰盒 ╳ 極地冰球 Ice Polar 2.0</title>
 		<link>/ice-polar-2/</link>
-		<pubDate>Mon, 02 Oct 2017 14:17:26 +0000</pubDate>
+				<pubDate>Mon, 02 Oct 2017 14:17:26 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Commercial]]></category>
 		<category><![CDATA[Work]]></category>
@@ -40,7 +42,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[極地冰盒]]></category>
 
 		<guid isPermaLink="false">http://nous.im/nous/?p=447</guid>
-		<description><![CDATA[夏日炎炎只能在家趴&#8230;&#8230; 請人喝飲料還不加冰塊實在太不上道了！ #夏天不再熱到分手 #透 [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[夏日炎炎只能在家趴&#8230;&#8230; 請人喝飲料還不加冰塊實在太不上道了！ #夏天不再熱到分手 #透 [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

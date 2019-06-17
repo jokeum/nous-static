@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/tag/hungry/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 May 2017 07:19:53 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>H.U.N.G.R.Y. @ The River</title>
 		<link>/h-u-n-g-r-y-the-river/</link>
-		<pubDate>Fri, 24 Jun 2016 09:34:03 +0000</pubDate>
+				<pubDate>Fri, 24 Jun 2016 09:34:03 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Commercial]]></category>
 		<category><![CDATA[Photography]]></category>
@@ -41,7 +43,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[joel]]></category>
 
 		<guid isPermaLink="false">http://nous.twbbs.org/?p=178</guid>
-		<description><![CDATA[一場絕無僅有的瘋狂創意發想，首次同時融合視覺，聽覺，嗅覺，味覺與觸覺，五感於一身的主題派對。 製作｜NOUS  [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[一場絕無僅有的瘋狂創意發想，首次同時融合視覺，聽覺，嗅覺，味覺與觸覺，五感於一身的主題派對。 製作｜NOUS  [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

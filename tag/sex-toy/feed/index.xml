@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/tag/sex-toy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Mar 2018 13:38:32 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>XSTH ╳ 壞女孩的甜蜜時間</title>
 		<link>/xsth-badgirl/</link>
-		<pubDate>Wed, 19 Oct 2016 11:47:07 +0000</pubDate>
+				<pubDate>Wed, 19 Oct 2016 11:47:07 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Photography]]></category>
 		<category><![CDATA[Work]]></category>
@@ -39,7 +41,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[sex toy]]></category>
 
 		<guid isPermaLink="false">http://nous.twbbs.org/?p=294</guid>
-		<description><![CDATA[女孩有很多種，也有很多面。 我們常被告訴「別只看外表」， 大部份情況都不太合用，但或許這次是對的。 商品協力｜ [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[女孩有很多種，也有很多面。 我們常被告訴「別只看外表」， 大部份情況都不太合用，但或許這次是對的。 商品協力｜ [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

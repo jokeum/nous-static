@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/tag/heater/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Dec 2018 20:36:00 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>羅蜜歐電暖器</title>
 		<link>/romeo-heater/</link>
-		<pubDate>Sun, 25 Dec 2016 06:57:39 +0000</pubDate>
+				<pubDate>Sun, 25 Dec 2016 06:57:39 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Commercial]]></category>
 		<category><![CDATA[Work]]></category>
@@ -39,7 +41,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[羅蜜歐]]></category>
 
 		<guid isPermaLink="false">http://nous.twbbs.org/?p=332</guid>
-		<description><![CDATA[客戶｜羅蜜歐 製作｜NOUS Film Studio 導演｜廖建華 攝影｜陳奕宏 攝影大助｜廖嘉禾 燈光｜簡就 [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[客戶｜羅蜜歐 製作｜NOUS Film Studio 導演｜廖建華 攝影｜陳奕宏 攝影大助｜廖嘉禾 燈光｜簡就 [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

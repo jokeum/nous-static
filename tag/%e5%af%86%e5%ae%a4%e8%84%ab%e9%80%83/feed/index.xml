@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/tag/%E5%AF%86%E5%AE%A4%E8%84%AB%E9%80%83/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Dec 2018 20:25:06 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>兩廳院事件簿《烈火中的帥哥警探》</title>
 		<link>/detective-h-on-fire/</link>
-		<pubDate>Mon, 10 Dec 2018 20:23:42 +0000</pubDate>
+				<pubDate>Mon, 10 Dec 2018 20:23:42 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Commercial]]></category>
 		<category><![CDATA[Work]]></category>
@@ -41,7 +43,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[跨媒體]]></category>
 
 		<guid isPermaLink="false">/?p=540</guid>
-		<description><![CDATA[「別人無法解決的事，就交給帥哥警探！」 一齣結合線上＋線下＋實境互動的混種舞台劇，你從來沒玩過的「劇院式跨媒體 [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[「別人無法解決的事，就交給帥哥警探！」 一齣結合線上＋線下＋實境互動的混種舞台劇，你從來沒玩過的「劇院式跨媒體 [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>

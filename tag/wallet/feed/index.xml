@@ -14,11 +14,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<atom:link href="/tag/wallet/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>若思影像工作室</description>
-	<lastBuildDate>Mon, 10 Dec 2018 20:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Jul 2017 10:52:59 +0000</lastBuildDate>
 	<language>zh-TW</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2015/10/cropped-nous_app-32x32.png</url>
@@ -30,7 +32,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<item>
 		<title>XSTH ╳ Treether</title>
 		<link>/treether/</link>
-		<pubDate>Wed, 19 Oct 2016 15:21:32 +0000</pubDate>
+				<pubDate>Wed, 19 Oct 2016 15:21:32 +0000</pubDate>
 		<dc:creator><![CDATA[jokeum]]></dc:creator>
 				<category><![CDATA[Photography]]></category>
 		<category><![CDATA[Work]]></category>
@@ -40,7 +42,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 		<category><![CDATA[wallet]]></category>
 
 		<guid isPermaLink="false">http://nous.twbbs.org/?p=319</guid>
-		<description><![CDATA[在森林深處，女泰山正準備新樹革的時裝秀。 然而和大多數人一樣，身邊總會有個搞砸的朋友，還會忘記帶錢。 但知道你 [&#8230;]]]></description>
-		</item>
+				<description><![CDATA[在森林深處，女泰山正準備新樹革的時裝秀。 然而和大多數人一樣，身邊總會有個搞砸的朋友，還會忘記帶錢。 但知道你 [&#8230;]]]></description>
+									</item>
 	</channel>
 </rss>
